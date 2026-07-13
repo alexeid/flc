@@ -15,3 +15,27 @@ bin
 /out
 /build-lib
 
+
+# --- added during laptop migration 2026 ---
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.Rhistory
+.Rapp.history
+_site/
+.pytest_cache/
+out/
+target/
+build/
+.gradle/
+.idea/
+*.class
+*.jar
+*.war
+_book/
+_build/
+.quarto/
+.buildinfo
+.doctrees/
